@@ -1,41 +1,41 @@
 body {
-    margin: 0;
-    background-color: #1b244a;
+  margin: 0;
+  background-color: #1b244a;
 }
 
 h3 {
-    font-size: 40px;
-    text-align: center;
-    margin-bottom: 0;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 0;
 }
 .container {
-    display: flex;
-    justify-content: space-around;
-    color: white;
+  display: flex;
+  justify-content: space-around;
+  color: white;
 }
 
 .score {
-    background: #080001;
-    border-radius: 5px;
-    height: 120px;
-    width: 155px;
-    color: #f94f6d;
-    margin: 21px 0 26px 0;
-    font-size: 90px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background: #080001;
+  border-radius: 5px;
+  height: 120px;
+  width: 155px;
+  color: #f94f6d;
+  margin: 21px 0 26px 0;
+  font-size: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 button {
-    margin-right: 9px;
-    height: 45px;
-    width: 45px;
-    background-color: inherit;
-    border: 1px solid #9aabd8;
-    color: #9aabd8;
-    border-radius: 5px;
-    
-    /* justify-content: center; */
-    /* align-items: center */
+  margin-right: 9px;
+  height: 45px;
+  width: 45px;
+  background-color: inherit;
+  border: 1px solid #9aabd8;
+  color: #9aabd8;
+  border-radius: 5px;
+
+  /* justify-content: center; */
+  /* align-items: center */
 }
